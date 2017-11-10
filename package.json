@@ -1,0 +1,23 @@
+{
+  "name": "create-sewing-kit-app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Chris Sauve <chrismsauve@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@shopify/sewing-kit": "^0.17.1",
+    "@types/fs-extra": "^4.0.4",
+    "@types/koa": "^2.0.40",
+    "@types/react-hot-loader": "^3.0.5",
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {
+    "@shopify/polaris": "^1.8.3",
+    "fs-extra": "^4.0.2",
+    "koa": "^2.4.1",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "react-hot-loader": "^3.1.2"
+  }
+}
